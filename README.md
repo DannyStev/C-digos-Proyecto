@@ -1,8 +1,7 @@
+IMAGEN = ![image](https://github.com/DannyStev/C-digos-Proyecto/assets/131490785/ae9cb5fe-63d6-4cf1-9587-8bcac71e2977)
+
 <p align="center">
-  <img src="![image](https://github.com/DannyStev/C-digos-Proyecto/assets/131490785/79f48725-599d-47a0-8655-40b15cd3e79f)" width="400" style="max-width:100%;">
-</p>
-<p align="center">
-  <img src="https://github.com/DannyStev/C-digos-Proyecto/raw/main/assets/131490785/79f48725-599d-47a0-8655-40b15cd3e79f" width="400" style="max-width:100%;">
+  <img src="IMAGEN" width="400" style="max-width:100%;">
 </p>
 
 ---
