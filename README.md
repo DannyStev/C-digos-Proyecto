@@ -6,6 +6,7 @@
 <p align="center" style="text-transform: uppercase;">
   C-digos-Proyecto
 </p>
+
 ---
 
 A lo largo de este repositorio se encontrarán códigos referentes a la creación y preprocesamiento de los datos. Además, se incluyen scripts que abordan técnicas de Web Scraping para la recolección de datos. También se encontrarán implementaciones de algoritmos avanzados de aprendizaje automático y ajuste de hiperparámetros. Cada script aquí contenido refleja un componente crucial del esfuerzo de entrenamiento.
