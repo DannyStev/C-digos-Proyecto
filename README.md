@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BlitzKriegM/C-digos-Proyecto/raw/main/assets/131490785/37b76066-c440-440b-9128-b2ac8f4ef286" width="400" style="max-width:100%;">
+  <img src="![image](https://github.com/DannyStev/C-digos-Proyecto/assets/131490785/79f48725-599d-47a0-8655-40b15cd3e79f)" width="400" style="max-width:100%;">
 </p>
 
 ---
