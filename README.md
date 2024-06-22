@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">
+<p align="center"><p style="text-transform: uppercase;">
   <b># C-digos-Proyecto</b>
 </p>
 
