@@ -7,6 +7,7 @@
 
 ---
 
+<p style="text-align: justify;">
 A lo largo de este repositorio se encontrarán códigos referentes a la creación y preprocesamiento de los datos. Además, se incluyen scripts que abordan técnicas de Web Scraping para la recolección de datos. También se encontrarán implementaciones de algoritmos avanzados de aprendizaje automático y ajuste de hiperparámetros. Cada script aquí contenido refleja un componente crucial del esfuerzo de entrenamiento.
 
 Además, se proporcionan ejemplos detallados y comentarios explicativos para facilitar la comprensión y reutilización de los métodos empleados. Este repositorio es un recurso valioso tanto para aquellos que buscan replicar los resultados del entrenamiento como para quienes desean aprender y explorar diversas estrategias en el campo del desarrollo de modelos.
@@ -18,3 +19,4 @@ En resumen, este repositorio abarca:
 - **Ajuste de hiperparámetros**: Métodos y técnicas utilizados para encontrar los mejores parámetros para los modelos.
 
 Cada sección del repositorio está diseñada para ser educativa y práctica, proporcionando un recurso integral para desarrolladores, investigadores y entusiastas del aprendizaje automático.
+<p style="text-align: justify;">
