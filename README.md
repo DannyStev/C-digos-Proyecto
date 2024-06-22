@@ -1,4 +1,4 @@
-# C-digos-Proyecto¡Por supuesto! Aquí tienes una versión ampliada y mejorada de tu descripción:
+# C-digos-Proyecto
 
 ---
 
