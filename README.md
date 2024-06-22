@@ -1,7 +1,7 @@
 ![image](https://github.com/DannyStev/C-digos-Proyecto/assets/131490785/ae9cb5fe-63d6-4cf1-9587-8bcac71e2977)
 
 <p align="center">
-  <img src="https://github.com/DannyStev/C-digos-Proyecto/raw/main/assets/131490785/ae9cb5fe-63d6-4cf1-9587-8bcac71e2977" width="600">
+  <img src="https://raw.githubusercontent.com/DannyStev/C-digos-Proyecto/main/assets/131490785/ae9cb5fe-63d6-4cf1-9587-8bcac71e2977" width="600">
 </p>
 
 
