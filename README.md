@@ -3,9 +3,9 @@
 
 ---
 
-<p align="center">
-  <b><font size="6">🔥 Prometheus-Eval 🔥</font></b>
-</p>
+<h1 align="center">
+  <span style="font-size: 48px;">🔥 Prometheus-Eval 🔥</span>
+</h1>
 
 
 ---
