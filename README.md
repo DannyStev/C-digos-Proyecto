@@ -1,6 +1,6 @@
 ![image](https://github.com/DannyStev/C-digos-Proyecto/assets/131490785/fdd68876-8a70-4897-8c30-ba8b2796b875)
 
-
+<img src="url_de_la_imagen" width="200" height="auto">
 ---
 
 <h1 align="center">
