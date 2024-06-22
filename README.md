@@ -1,4 +1,5 @@
-![image](https://github.com/DannyStev/C-digos-Proyecto/assets/131490785/c3ed6725-3941-4403-84b9-c3b1096a9b5a)
+![image](https://github.com/DannyStev/C-digos-Proyecto/assets/131490785/fdd68876-8a70-4897-8c30-ba8b2796b875)
+
 
 ---
 
