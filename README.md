@@ -4,9 +4,8 @@
 ---
 
 <h1 align="center">
-  <span style="font-size: 48px;">🔥 Prometheus-Eval 🔥</span>
+  <span style="font-size: 52px;">✈️ LLM RAC Implementation Copilation✈️</span>
 </h1>
-
 
 ---
 
